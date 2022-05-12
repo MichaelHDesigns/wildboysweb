@@ -10927,7 +10927,7 @@ textarea.form-control {
 }
 
 .cube > .top {
-  background: url("https://www.njconservation.org/wp-content/uploads/2018/11/Wickecheoke-Creek-Preserve-HERO-edited-e1558623955436.jpg");
+  background: url("https://i.ebayimg.com/images/g/hGMAAOSw6XRgsa4F/s-l1600.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transform: rotateX(90deg) translateZ(calc(var(--height-cube)/2));
@@ -10935,7 +10935,7 @@ textarea.form-control {
 }
 
 .cube > .bottom {
-  background: url("https://i.ebayimg.com/images/g/hGMAAOSw6XRgsa4F/s-l1600.jpg");
+  background: url("https://www.njconservation.org/wp-content/uploads/2018/11/Wickecheoke-Creek-Preserve-HERO-edited-e1558623955436.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   -webkit-transform: rotateX(-90deg) translateZ(calc(var(--height-cube)/2));
