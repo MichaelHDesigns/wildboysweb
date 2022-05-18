@@ -10235,7 +10235,7 @@ textarea.form-control {
   -ms-grid-row: auto;
       grid-row-start: auto;
   color: #fff;
-  background: #0c9a9a url("../img/gallery6.jpg") no-repeat center center/cover;
+  background: #0c9a9a url("../img/wildboys.jpg") no-repeat center center/cover;
   -webkit-box-shadow: -2px 2px 10px 0px rgba(68, 68, 68, 0.4);
           box-shadow: -2px 2px 10px 0px rgba(68, 68, 68, 0.4);
   -webkit-transition: -webkit-transform 0.3s ease-in-out;
@@ -10245,15 +10245,15 @@ textarea.form-control {
   cursor: pointer;
   counter-increment: item-counter; }
   .box:nth-of-type(2n) {
-    background-image: url("../img/gallery8.jpg"); }
+    background-image: url("../img/wildboys1.jpeg"); }
   .box:nth-of-type(3n) {
-    background-image: url("../img/gallery1.jpg"); }
+    background-image: url("../img/wildboys1.jpeg"); }
   .box:nth-of-type(4n) {
-    background-image: url("../img/gallery2.jpg"); }
+    background-image: url("../img/wildboys.jpg"); }
   .box:nth-of-type(5n) {
-    background-image: url("../img/gallery4.jpeg"); }
+    background-image: url("../img/wildboys.jpg"); }
   .box:nth-of-type(6n) {
-    background-image: url("../img/gallery5.jpg"); }
+    background-image: url("../img/wildboys1.jpeg"); }
   .box:after {
     content: '';
     position: absolute;
@@ -10896,8 +10896,8 @@ textarea.form-control {
 }
 
 .side__desc {
-  font-size: 12px;
-  width: 350px;
+  font-size: 15px;
+  width: 230px;
   line-height: 24px;
   -webkit-transform: translateZ(70px);
   transform: translateZ(70px);
